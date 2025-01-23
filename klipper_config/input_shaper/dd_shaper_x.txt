@@ -1,0 +1,33 @@
+9:12
+The SAVE_CONFIG command will update the printer config file
+with these parameters and restart the printer.
+19:12
+Shaper calibration data written to /tmp/calibration_data_x_20250119_190952.csv file
+19:12
+shaper_type_y:2hump_ei shaper_freq_y:40.400 damping_ratio_y:0.100000
+19:12
+shaper_type_x:3hump_ei shaper_freq_x:56.000 damping_ratio_x:0.100000
+19:12
+Recommended shaper_type_x = 3hump_ei, shaper_freq_x = 56.0 Hz
+19:12
+To avoid too much smoothing with '3hump_ei', suggested max_accel <= 2200 mm/sec^2
+19:12
+Fitted shaper '3hump_ei' frequency = 56.0 Hz (vibrations = 0.2%, smoothing ~= 0.261)
+19:12
+To avoid too much smoothing with '2hump_ei', suggested max_accel <= 3900 mm/sec^2
+19:12
+Fitted shaper '2hump_ei' frequency = 59.2 Hz (vibrations = 4.1%, smoothing ~= 0.154)
+19:12
+To avoid too much smoothing with 'ei', suggested max_accel <= 1500 mm/sec^2
+19:12
+Fitted shaper 'ei' frequency = 29.4 Hz (vibrations = 5.2%, smoothing ~= 0.373)
+19:12
+To avoid too much smoothing with 'mzv', suggested max_accel <= 1500 mm/sec^2
+19:12
+Fitted shaper 'mzv' frequency = 23.0 Hz (vibrations = 6.2%, smoothing ~= 0.385)
+19:12
+To avoid too much smoothing with 'zv', suggested max_accel <= 3200 mm/sec^2
+19:12
+Fitted shaper 'zv' frequency = 29.6 Hz (vibrations = 24.4%, smoothing ~= 0.176)
+19:12
+Calculating the best input shaper parameters for x axis
